@@ -6,7 +6,7 @@ The kernel is in 32-bit protected mode and is made to be booted in a x86 CPU (i 
 This kernel only print a 'X' on the top left of the screen after being booted.
 # Running
 
-Requierements:
+Requirements:
 * [x86 CrossCompiler](http://wiki.osdev.org/GCC_Cross-Compiler)
 Use this path:
 ```
